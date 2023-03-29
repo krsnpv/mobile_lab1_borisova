@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1_Borisova</string>
+    <string name="instruction_text">Введите число от 1 до 100</string>
+    <string name="enter_button_text">Начать</string>
+    <string name="null_text"></string>
+    <string name="reset_button_text">Сбросить</string>
+</resources>
